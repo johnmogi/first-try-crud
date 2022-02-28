@@ -1,7 +1,3 @@
-# first-try-crud
-going back for more studies...
-udemy + nestJS, will be back
-
 1. full stack app - lead generating form:
 create an installation script for base backend?
 
